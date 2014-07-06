@@ -29,7 +29,7 @@ Various little things to test and try out idea and concepts.
 
 * sockclient.c: Playing with sockets, connecting to my router.  No, those aren't my passwords.
 
-* [sockserv.c][sockserv.c]: More sockets... this time a server.
+* [sockserv.c](sockserv.c): More sockets... this time a server.
 
 * vector.cpp: Some tinkering code (again, from [SO][1]), playing with various array methods,
     looking for which runs faster.  Also some foray's into steady_clock.
