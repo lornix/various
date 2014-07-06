@@ -30,8 +30,9 @@ CFLAGS+=-Wl,--as-needed
 #LDFLAGS+=
 #
 # but need to list libraries needed
-#LIBS+=-lm
-#LIBS+=-lgd
+LIBS+=-lm
+LIBS+=-lSDL2
+LIBS+=-lcairo
 #
 CC:=gcc
 CXX:=g++
