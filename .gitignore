@@ -1,0 +1,12 @@
+*.o
+cling
+eniac_sqrt
+hello_c
+hello_cpp
+inot
+pt
+regex
+sockclient
+sockserv
+vector
+watchpoint
