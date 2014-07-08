@@ -4,7 +4,7 @@
 
 int main()
 {
-    char* p=(char*)malloc(300);
+    char* p=malloc(300);
 
     strncpy(p,"this should succeed",256);
     puts(p);
